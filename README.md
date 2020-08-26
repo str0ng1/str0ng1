@@ -1,4 +1,5 @@
 ### Hi there, I'm [Str0ng1](https:/discord.gg/tAcbpSk) 👋
+~> My discord is: str0ng#0001
 
 
 **Languages and Others:**  
