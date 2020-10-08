@@ -14,5 +14,4 @@
 
 ![Str0ng github stats](https://github-readme-stats.vercel.app/api?username=str0ng1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=str0ng1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=str0ng1&repo=Battle-Teams-Script-BHOP&theme=radical)](https://github.com/str0ng1/Battle-Teams-Script-BHOP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=str0ng1&repo=colors&theme=radical)](https://github.com/str0ng1/colors)
