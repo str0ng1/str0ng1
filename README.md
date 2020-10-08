@@ -5,4 +5,9 @@
     👋 Hi there! I'm a Front-end Developer.
   </samp>
 </p>
-sei javascript
+
+<p align="center">
+  <br>Languages<br>
+  ✨ `Javascript` and `Python`<br>
+  <br>
+</p>
