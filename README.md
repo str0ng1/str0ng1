@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b3/9b/16/b39b168a37a070bdc9d96eb125bd4e20.gif" width="55px">
+  <img src="https://i.pinimg.com/originals/6a/5f/a1/6a5fa189a67bbb35c14d3db00c317308.gif" width="55px">
    <br><br>
   <samp>
     👋 Hi there! I'm a Front-end Developer.
