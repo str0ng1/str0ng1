@@ -9,5 +9,8 @@
 - Programming Languages used:
 
 <div align="center">
- <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='30'/> <img 
+ <img src = 'https://github.com/str0ng1/str0ng1/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/str0ng1/str0ng1/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/str0ng1/str0ng1/blob/master/images/html.svg' width='30'/> <img src = 
+'https://github.com/str0ng1/str0ng1/blob/master/images/css.svg' width='30'/> <img src = 
+'https://github.com/str0ng1/str0ng1/blob/master/images/js.svg' width='30'/> <img src = 
+'https://github.com/str0ng1/RaghavK16/blob/master/images/php.svg' width='40'/>
 </div>
