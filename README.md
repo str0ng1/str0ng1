@@ -16,6 +16,4 @@
 'https://github.com/str0ng1/str0ng1/blob/master/images/css.svg' width='30'/> 
   <img src = 
 'https://github.com/str0ng1/str0ng1/blob/master/images/c-original.svg' width='30'/> 
-  <img src = 
-'https://github.com/str0ng1/RaghavK16/blob/master/images/php.svg' width='40'/>
 </div>
