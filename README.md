@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-👨‍ - Programming Languages used:
+- Programming Languages used:
 
 <div align="center">
   <img src='https://github.com/str0ng1/str0ng1/blob/master/images/js.svg' width='30' />
