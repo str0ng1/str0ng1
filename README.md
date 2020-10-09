@@ -9,9 +9,9 @@
 - Programming Languages used:
 
 <div align="center">
-  <img src='https://github.com/str0ng1/str0ng1/blob/master/images/js.svg' width='30' />
-  <img src='https://github.com/str0ng1/str0ng1/blob/master/images/python.svg' height='30' />
-  <img src='https://github.com/str0ng1/str0ng1/blob/master/images/c-original.svg' width='30' />
-  <img src='https://github.com/str0ng1/str0ng1/blob/master/images/html.svg' width='30' />
-  <img src='https://github.com/str0ng1/str0ng1/blob/master/images/css.svg' width='30' />
+  <img src='https://github.com/strong0d/strong0d/blob/master/images/js.svg' width='30' />
+  <img src='https://github.com/strong0d/strong0d/blob/master/images/python.svg' height='30' />
+  <img src='https://github.com/strong0d/strong0d/blob/master/images/c-original.svg' width='30' />
+  <img src='https://github.com/strong0d/strong0d/blob/master/images/html.svg' width='30' />
+  <img src='https://github.com/strong0d/strong0d/blob/master/images/css.svg' width='30' />
 </div>
