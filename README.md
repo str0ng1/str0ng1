@@ -2,7 +2,7 @@
   <img src="/images/run.gif" width="65px">
   <br><br>
   <samp>
-    👋 Hi there! I'm a Front-end Developer.
+    👋 Hi there! My Skills.
   </samp>
 </p>
 
