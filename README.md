@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cracrle/cracrle/blob/master/images/run.gif" width="65px">
+  <img src="/images/run.gif" width="65px">
   <br><br>
   <samp>
     👋 Hi there! I'm a Front-end Developer.
