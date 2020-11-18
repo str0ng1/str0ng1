@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src='https://github.com/sickog0d/sickog0d/blob/master/images/csharp.svg' width='30' />
-  <img src='https://github.com/sickog0de/sickog0d/blob/master/images/c-original.svg' width='30' />
+  <img src='https://github.com/sickog0d/sickog0d/blob/master/images/c-original.svg' width='30' />
   <img src='https://github.com/sickog0d/sickog0d/blob/master/images/js.svg' width='30' />
   <img src='https://github.com/sickog0d/sickog0d/blob/master/images/html.svg' width='30' />
   <img src='https://github.com/sickog0d/sickog0d/blob/master/images/css.svg' width='30' />
