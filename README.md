@@ -2,11 +2,11 @@
   <img src="/images/run.gif" width="65px">
   <br><br>
   <samp>
-    👋 Hi there! Look My Skills.
+    👋 Hi there!
   </samp>
 </p>
 
-- Programming Languages used:
+- Look My Skills:
 
 <div align="center">
   <img src='/images/csharp.svg' width='30' />
