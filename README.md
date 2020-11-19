@@ -3,10 +3,14 @@
   <br><br>
   <samp>
     👋 Hi there!
+    
+    - Look My Skills:
+    
+    
   </samp>
 </p>
 
-- Look My Skills:
+
 
 <div align="center">
   <img src='/images/csharp.svg' width='30' />
