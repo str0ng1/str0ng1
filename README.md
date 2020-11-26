@@ -10,4 +10,6 @@
 
 <div align="center">
   <img src='/images/c++.svg' width='30' />
+  <img src='/images/csharp.svg' width='30' />
+  <img src='/images/c-original.svg' width='30' />
 </div>
