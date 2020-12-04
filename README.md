@@ -11,6 +11,6 @@
 <div align="center">
   <img src='/images/c++.svg' width='35'/>
   <img src='/images/csharp.svg' width='40'/>
-  <img src='/images/c-original.svg' width='40'/>
+  <img src='https://xesque.rocketseat.dev/platform/tech/c.svg' width='40'/>
   <img src='https://xesque.rocketseat.dev/platform/tech/node.svg' width='40'/>
 </div>
