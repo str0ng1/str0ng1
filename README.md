@@ -6,10 +6,10 @@
   </samp>
 </p>
 
-- Look My Skills:
+- Skills:
 
 <div align="center">
-  <img src='/images/c++.svg' width='40'/>
+  <img src='/images/c++.svg' width='37'/>
   <img src='/images/c-original.svg' width='40'/>
   <img src='/images/csharp.svg' width='40'/>
 </div>
