@@ -10,7 +10,11 @@
 
 <div align="center">
   <img src='/images/c++.svg' width='35'/>
-  <img src='https://xesque.rocketseat.dev/platform/tech/c-sharp.svg' width='40'/>
-  <img src='https://xesque.rocketseat.dev/platform/tech/c.svg' width='40'/>
-  <img src='https://xesque.rocketseat.dev/platform/tech/javascript.svg' width='40'/>
+  <img src='/images/c-original.svg' width='40'/>
+  <img src='/images/csharp.svg' width='40'/>
+  <img src='/images/js.svg' width='40'/>
 </div>
+
+/*
+uri
+https://xesque.rocketseat.dev/platform/tech/image.svg
