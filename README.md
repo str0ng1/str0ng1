@@ -1,1 +1,1 @@
-![js]("https://simpleicons.org/icons/javascript.svg")
+![js](https://simpleicons.org/icons/javascript.svg)
