@@ -2,7 +2,7 @@
     <img src="images/bluesmile.gif" width="80" height="70">
 </p>
 
-<h3 id="my-skills">My Skills</h3>
+<h3 id="my-skills">My Skills:</h3>
 <ul>
     <li>C++ and C#</li>
     <li>Game Hacking</li>
