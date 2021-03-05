@@ -1,4 +1,4 @@
-
 ### My Skills
-- C++ and Javascrit
+
+- C++ and Javascript
 - Game Hacking 
