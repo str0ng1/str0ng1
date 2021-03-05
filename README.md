@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/mario.gif" width="80" height="70">
+    <img src="images/mario.gif" width="60" height="50">
 </p>
 
 <h3 id="my-skills">My Skills</h3>
