@@ -3,7 +3,7 @@
 </p>
 
 <h3 id="my-skills">My Skills</h3>
-<ul>F
+<ul>
     <li>C++ and Javascript.</li>
     <li>Game Hacking.</li>
 </ul>
