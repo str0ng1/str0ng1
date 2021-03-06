@@ -2,5 +2,5 @@
 
 # 
 
-- `C++` and `Others`
-- `Game Hacking`
+- C++ and Others
+- Game Hacking
