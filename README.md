@@ -1,5 +1,7 @@
 ### Contact Info
 
+![Github Follow](https://img.shields.io/github/followers/sickog0d?label=Follow&style=social)
+
 #
  - Discord: `litboykawan#0909`
 #
