@@ -1,6 +1,8 @@
 ![](https://img.shields.io/github/followers/sickog0d?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=sickog0d.sickog0d)
 
+### My Skills
+
 #
 
 <pre><code>💬 <span class="hljs-selector-tag">Programming</span> <span class="hljs-selector-tag">Languages</span>: 
