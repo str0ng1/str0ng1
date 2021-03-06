@@ -3,6 +3,6 @@
 # 
 
 <ul>
-    <li>C++ and Others</i>
-    <li>Game Hacking</li>
+    <li>`C++` and `Others`</i>
+    <li>`Game Hacking`</li>
 </ul>
