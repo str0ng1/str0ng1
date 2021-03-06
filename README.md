@@ -1,3 +1,5 @@
+##### Hi, I'm a sickog0d(kawan)
+
 ### My Skills
 
 <pre><code>💬 <span class="hljs-selector-tag">Programming</span> <span class="hljs-selector-tag">Languages</span>: 
