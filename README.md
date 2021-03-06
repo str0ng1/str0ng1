@@ -2,7 +2,7 @@
 
 ### Skills
 
-#### `I'm a game-focused developer`
+- `I'm a game-focused developer`
 
 <pre><code>💬 <span class="hljs-selector-tag">Programming</span> <span class="hljs-selector-tag">Languages</span>: 
 <span class="hljs-selector-tag">Javascript</span>                              ███████████████░░░░░░░░░░   72<span class="hljs-selector-class">.36</span>% 
