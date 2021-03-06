@@ -1,4 +1,4 @@
-<p align="float:left">
+<p align="left">
     <img src="images/bluesmile.gif" width="80" height="70">
 </p>
 
