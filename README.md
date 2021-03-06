@@ -1,6 +1,6 @@
 <h3 id="my-skills"> Welcome to my github profile!</h3>
-# 
 
+# 
 <ul>
  <li>C++ and Others</li>
  <li>Game Hacking</li>
