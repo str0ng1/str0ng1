@@ -3,5 +3,5 @@
 - `Game Hacking`
 
 <p align="right">
-    <img src="images/bluesmile.gif" width="80" height="100">
+    <img src="images/bluesmile.gif" width="80" height="300">
 </p>
