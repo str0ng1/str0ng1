@@ -1,1 +1,9 @@
-<p><img style="float:right" src="images/bluesmile.gif"><b>MySkills:</b> C++ and Others</p>
+<p align="float:right">
+    <img src="images/bluesmile.gif" width="80" height="70">
+</p>
+
+<h3 id="my-skills">My Skills:</h3>
+<ul>
+    <li>C++ and Others</i>
+    <li>Game Hacking</li>
+</ul>
