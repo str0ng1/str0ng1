@@ -1,6 +1,7 @@
 
 <h3 id="my-skills">My Stats:</h3>
-![x](https://github.githubassets.com/images/icons/emoji/unicode/1f447.png)
+
+![xsplash](https://github.githubassets.com/images/icons/emoji/unicode/1f447.png)
 
 #
 
