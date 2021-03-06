@@ -1,9 +1,5 @@
-<h3 id="my-skills">My Stats:</h3>
-
-#
- - Game Hacking
- - Information Security
-
+### Contact Info
+ - Discord: `litboykawan#0909`
 #
 
 <pre><code>💬 <span class="hljs-selector-tag">Programming</span> <span class="hljs-selector-tag">Languages</span>: 
