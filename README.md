@@ -1,11 +1,5 @@
 <h3 id="my-skills"> Hello, I'm sickog0d!</h3>
 
-# 
-
-<ul>
- <li>Game Hacking</li>
-</ul>
-
 #
 <h3 id="my-skills"> My Stats:</h3>
 
