@@ -9,6 +9,6 @@
 <span class="hljs-selector-tag">C</span>++                                     ████████░░░░░░░░░░░░░░░░░   38<span class="hljs-selector-class">.25</span>%
 
 💻 <span class="hljs-selector-tag">Operational</span> <span class="hljs-selector-tag">Systems:</span>
-<span class="hljs-selector-tag">Windows</span>                                 █████████████████████████   100<span class="hljs-selector-class">.49</span>% 
+<span class="hljs-selector-tag">Windows</span>                                 █████████████████████████   100<span class="hljs-selector-class"></span>% 
 <span class="hljs-selector-tag">Linux</span>                                   ██████░░░░░░░░░░░░░░░░░░░   15<span class="hljs-selector-class">.07</span>%
 </code></pre>
