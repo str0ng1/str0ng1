@@ -1,5 +1,8 @@
-<h3 id="-aaaaaaaax-https-github-githubassets-com-images-icons-emoji-unicode-1f447-png-my-stats"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png" alt="aaaaaaaax"> My Stats</h3>
+<h3 id="my-skills">My Stats:</h3>
 
+#
+ - Game Hacking
+ - Information Security
 
 #
 
