@@ -1,7 +1,10 @@
-<h3 id="my-skills"> Welcome to my github profile!</h3>
+<h3 id="my-skills"> Hello, I'm sickog0d!</h3>
 
 # 
 
+<ul>
+ <li>Game Hacking</li>
+</ul>
 
 #
 <h3 id="my-skills"> My Stats:</h3>
@@ -14,3 +17,5 @@
 <span class="hljs-selector-tag">Windows</span>                                 ██████████████████░░░░░░░   82<span class="hljs-selector-class">.49</span>% 
 <span class="hljs-selector-tag">Linux</span>                                   ██████░░░░░░░░░░░░░░░░░░░   15<span class="hljs-selector-class">.07</span>%
 </code></pre>
+
+`Welcome to my github profile!`
