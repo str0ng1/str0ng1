@@ -1,10 +1,10 @@
 
 
-### Look My Skills:
+### My Status:
 
 - `I have been studying programming since 2019.`
 
-<pre><code>💬 <span class="hljs-selector-tag">Programming</span> <span class="hljs-selector-tag">Languages</span>: 
+<pre><code>💬 <span class="hljs-selector-tag">Best</span> <span class="hljs-selector-tag">Skills</span>: 
 <span class="hljs-selector-tag">Front-End</span>                              ███████████████░░░░░░░░░░   72<span class="hljs-selector-class">.36</span>% 
 <span class="hljs-selector-tag">GameHacking</span>                            ████████░░░░░░░░░░░░░░░░░   38<span class="hljs-selector-class">.25</span>%
 
