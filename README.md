@@ -1,1 +1,1 @@
-- `C++` and `Javascript`
+- `C++` **and** `Javascript`
