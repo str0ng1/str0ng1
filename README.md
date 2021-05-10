@@ -1,10 +1,8 @@
-```js
-const profile = (langs, idioms, projects) => {
-    langs.push('Javascript', 'C++');
-    idioms.push('Portuguese', 'English');
+const languages = (langs, idioms, projects) => {
+    langs.push('C++');
+    idioms.push('English');
     projects.push('SynchNouys');
 
     return langs, idioms, projects;
 }
-profile([], [], []);
-```
+languages(['Javascript'], ['Portuguese'], []);
