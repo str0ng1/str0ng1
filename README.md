@@ -1,2 +1,2 @@
-- I like `Javascript`,`C++`
+- I like `Javascript`
 - I live in `Brazil`
