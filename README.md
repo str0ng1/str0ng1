@@ -1,4 +1,4 @@
-```cs
-# - I like Javascript.
-# - i live in Brazil.
+```sh
+I like Javascript.
+I live in Brazil.
 ```
