@@ -1,1 +1,1 @@
-- I like `Javascript` and `C++`.
+- I like `Javascript` and `C++`
