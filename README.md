@@ -4,7 +4,7 @@ const profile = (langs, idioms, projects) => {
     idioms.push('English');
     projects.push('BattleTeams');
 
-    return console.log(langs, idioms, projects);
+    return langs, idioms, projects;
 }
 profile(['Javascript'], ['Portuguese'], ['SynchNouys']);
 ```
