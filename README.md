@@ -1,4 +1,4 @@
 ```sh
-I like Javascript.
-I live in Brazil.
+- I like Javascript.
+- I live in Brazil.
 ```
