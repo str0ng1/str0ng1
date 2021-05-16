@@ -7,8 +7,8 @@ const profile = (langs, idioms, projects) => {
 profile(['Javascript'], ['Portuguese'], ['SynchNouys']);
 ```
 
-```
+
 # Skills
  - Hardware intermediary,
  - Windows system advanced, english intermediary
-```
+
