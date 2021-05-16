@@ -5,4 +5,7 @@ const profile = (langs, idioms, projects) => {
     projects.push('BattleTeams');
 }
 profile(['Javascript'], ['Portuguese'], ['SynchNouys']);
+
+# Skills
+- Hardware intermediary, windows system advanced, english intermediary
 ```
