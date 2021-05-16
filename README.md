@@ -6,6 +6,6 @@ const profile = (langs, idioms, projects) => {
 }
 profile(['Javascript'], ['Portuguese'], ['SynchNouys']);
 
-# Skills
-- Hardware intermediary, windows system advanced, english intermediary
+//# Skills
+// - Hardware intermediary, windows system advanced, english intermediary
 ```
