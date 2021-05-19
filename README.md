@@ -9,6 +9,6 @@ profile(['Javascript'], ['Portuguese'], ['SynchNouys']);
 
 
 # Skills
- - Hardware Pro/Certificate
- - English intermediary
+ - Hardware
+ - English
 
