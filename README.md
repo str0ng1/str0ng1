@@ -1,4 +1,3 @@
-# Welcome to my Profile
 ```js
 const profile = (langs, idioms, projects) => {
     langs.push('C++');
@@ -9,7 +8,7 @@ profile(['Javascript'], ['Portuguese'], ['SynchNouys']);
 ```
 
 
-# Skills (Intermediary)
- - Hardware
- - English
+# Skills
+ - Hardware Intermediary
+ - English Intermediary
 
