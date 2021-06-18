@@ -7,4 +7,6 @@
 # Skills
  - Hardware Advanced
  - English Intermediary
-
+ - 
+# Games
+ - LOL, Brawlhalla,AssaultCube,CS,Minecraft,CarX,MTA
